@@ -70,5 +70,27 @@
             "title": "Nuove attività",
             "text": "Sono state aggiunte nuove attività, scoprile nella sezione sostenibilità"
         }
+    ],
+    "concorso" :{
+        "image": "",
+        "title": "",
+        "description": "",
+        "description_bold": "",
+        "link": ""
+
+    },
+    "banners" :[
+        {
+            "image": "",
+            "title": "",
+            "description": "",
+            "link": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "description": "",
+            "link": ""
+        }
     ]
 }
