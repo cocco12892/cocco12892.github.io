@@ -72,12 +72,11 @@
         }
     ],
     "concorso" :{
-        "image": "",
-        "title": "",
-        "description": "",
-        "description_bold": "",
+        "image": "../assets/images/Promozioni_2.png",
+        "title": " Gioca e vinci",
+        "description": "Clicca e partecipa al concorso promosso da Maximo.",
+        "description_bold": "In palio fantastici premi!",
         "link": ""
-
     },
     "banners" :[
         {
