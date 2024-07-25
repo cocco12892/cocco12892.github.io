@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1",
+        "title": "Signorvino – La Grande Cantina', message: 'tantissime bottiglie in PROMO fino al -50%", 
+        "read": false,
+        "image":"../assets/images/vino.jpg",
+        "icon":"../assets/images/icons/message_1.png",
+        "description": "Non sei triste, hai solo bisogno di riempire la tua cantina personale! 🍷 Sorpresa: da noi ci sono tantissime bottiglie in PROMO fino al -50%. ",
+        "link": "https://maximoshopping.it/promo/signorvino-la-grande-cantina/"
+    },
+    {
+        "id": "2",
+        "title": "Vision Ottica – sconti fino al 50%",
+        "message": "Approfitta degli sconti fino al 50% su tantissimi occhiali da sole",
+        "read": false,
+        "image": "../assets/images/occhiali.jpg",
+        "icon":"../assets/images/icons/message_2.png",
+        "description": "L’estate è arrivata nei centri VisionOttica! Approfitta degli sconti fino al 50% su tantissimi occhiali da sole delle migliori collezioni. Non perdere l’occasione di sfoggiare un nuovo look estivo all’ultima moda, e di proteggere i tuoi occhi dai raggi UV.",
+        "link": "https://maximoshopping.it/promo/vision-ottica-sconti-fino-al-50-su-occhiali-da-sole/"
+    }
+  ]
