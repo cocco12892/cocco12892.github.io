@@ -4,6 +4,7 @@
         {
             "id": "1",
             "title": "Uci Cinemas – Deadpool & Wolverine", 
+            "message": "Disponibile da questa sera presso tutti i bar dei nostri cinema, assolutamente da non perdere!",
             "read": false,
             "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/SOCIAL-1080X1080-2-1-qrjayhlh2in7517s0yev0xvsxs03b44l7gt5eis7ww.jpg",
             "icon":"../assets/images/icons/message_1.png",
@@ -13,6 +14,7 @@
         {
             "id": "2",
             "title": "Gamelife – Promo FC 25",
+            "message": "EA Sports FC 25 è finalmente qui e i preordini sono ufficialmente aperti!",
             "read": false,
             "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/FC25_postfb_preorderGAMELIFE-qrhk0ch49ogskwwwpeivoslfblj1wzp6z3r16ytd00.jpg",
             "icon":"../assets/images/icons/message_2.png",
@@ -22,6 +24,7 @@
         {
             "id": "3",
             "title": "Old Wild West programma fedeltà",
+            "message": "Scopri il programma fedeltà Old Wild West!  Attiva la tua card, per te subito un buono omaggio da €5!",
             "read": false,
             "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/OWW-Rete-1200x1200px-Social-Fidelity-2024-07-qr5g8f2hjyvj1ii66pkj836f0vbusopof2iuidgnps.jpg",
             "icon":"../assets/images/icons/message_2.png",
@@ -34,6 +37,7 @@
         { 
             "id": "1",
             "title": "I saldi sono arrivati al Maximo Shopping Center",
+            "message": "Dal 22 a",
             "read": false,
             "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Max_saldi-estivi-2024_1200x1200_giu24-qqnmncls0uqaiia9udihq1wrd3u8dlyaj71851pseo.jpg",
             "icon":"../assets/images/icons/message_1.png",
@@ -43,6 +47,7 @@
         {
             "id": "2",
             "title": "La “QUIET ROOM” al Maximo Shopping Center. Gioca con noi!",
+            "message": "Dal 22 a",
             "read": false,
             "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Maximo_1080x1080-1-qpu429mj8x56g70sz9psr32h48eyo3v5w0j3s3xyq8.png",
             "icon":"../assets/images/icons/message_2.png",
@@ -52,6 +57,7 @@
         {
             "id": "3",
             "title": "Sophie & The Giants, Rosa Chemical, Arisa e Fausto Leali, i protagonisti di “Estate al Maximo 2024”",
+            "message": "Dal 22 a",
             "read": false,
             "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Max_eventi-estate_1200x1200_giu24-generico-qpg7c5qtygrekiy6sdvscwsc98t18rgtj2c5tjfle8.jpg",
             "icon":"../assets/images/icons/message_2.png",
