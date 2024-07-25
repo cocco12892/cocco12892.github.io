@@ -44,5 +44,17 @@
             "description": "🎉 È ARRIVATO IL MOMENTO CHE TUTTI ASPETTAVANO! 🎉 I saldi sono finalmente iniziati al Maximo Shopping Center! 🛍️ Non perdere l’occasione di acquistare i tuoi marchi preferiti a prezzi scontatissimi. Scopri le offerte imperdibili e rinnova il tuo guardaroba con stile! 💃🕺 Ti aspettiamo!",
             "link": "https://maximoshopping.it/eventi/i-saldi-sono-arrivati-al-maximo-shopping-center/"
         }
+    ],
+    "slidesData" : [
+        {
+            "background": "#fbd3af",
+            "title": "Nuove attività",
+            "text": "Sono state aggiunte nuove attività, scoprile nella sezione sostenibilità"
+        },
+        {
+            "background": "#fbf0af",
+            "title": "Nuove attività",
+            "text": "Sono state aggiunte nuove attività, scoprile nella sezione sostenibilità"
+        }
     ]
 }
