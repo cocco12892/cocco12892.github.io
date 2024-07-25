@@ -37,7 +37,7 @@
         { 
             "id": "1",
             "title": "I saldi sono arrivati al Maximo Shopping Center",
-            "message": "Dal 22 a",
+            "message": "🎉 È ARRIVATO IL MOMENTO CHE TUTTI ASPETTAVANO! 🎉 I saldi sono finalmente iniziati al Maximo Shopping Center!",
             "read": false,
             "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Max_saldi-estivi-2024_1200x1200_giu24-qqnmncls0uqaiia9udihq1wrd3u8dlyaj71851pseo.jpg",
             "icon":"../assets/images/icons/message_1.png",
@@ -47,7 +47,7 @@
         {
             "id": "2",
             "title": "La “QUIET ROOM” al Maximo Shopping Center. Gioca con noi!",
-            "message": "Dal 22 a",
+            "message": "Dal 22 al 27 Giugno, immergiti nell’atmosfera di “A Quiet Place – Giorno 1” entrando nella “Quiet Room” al Maximo Shopping Center.",
             "read": false,
             "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Maximo_1080x1080-1-qpu429mj8x56g70sz9psr32h48eyo3v5w0j3s3xyq8.png",
             "icon":"../assets/images/icons/message_2.png",
@@ -57,12 +57,12 @@
         {
             "id": "3",
             "title": "Sophie & The Giants, Rosa Chemical, Arisa e Fausto Leali, i protagonisti di “Estate al Maximo 2024”",
-            "message": "Dal 22 a",
+            "message": "Torna “Estate al Maximo”, la rassegna di concerti dal vivo organizzata dal Maximo Shopping Center. Quattro gli appuntamenti in calendario per quattro mercoledì del mese di luglio.",
             "read": false,
             "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Max_eventi-estate_1200x1200_giu24-generico-qpg7c5qtygrekiy6sdvscwsc98t18rgtj2c5tjfle8.jpg",
             "icon":"../assets/images/icons/message_2.png",
             "description": "Sophie and The Giants, Rosa Chemical, Arisa e Fausto Leali, i protagonisti di “Estate al Maximo 2024”",
-            "link": "https://maximoshopping.it/eventi/i-saldi-sono-arrivati-al-maximo-shopping-center/"
+            "link": "https://maximoshopping.it/news/estate-al-maximo-2024/"
         }
     ],
     "slidesData" : [
@@ -89,7 +89,7 @@
             "image": "../assets/images/eventi_maximo_3.png",
             "title": "Eventi",
             "description": "Scopri tutti gli eventi del Maximo Shopping Center",
-            "link": "https://maximoshopping.it/eventi/"
+            "link": "https://maximoshopping.it/news-eventi/magazine"
         },
         {
             "image": "../assets/images/gift_card.png",
