@@ -3,22 +3,30 @@
     [
         {
             "id": "1",
-            "title": "Signorvino – La Grande Cantina', message: 'tantissime bottiglie in PROMO fino al -50%", 
+            "title": "Uci Cinemas – Deadpool & Wolverine", 
             "read": false,
-            "image":"../assets/images/vino.jpg",
+            "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/SOCIAL-1080X1080-2-1-qrjayhlh2in7517s0yev0xvsxs03b44l7gt5eis7ww.jpg",
             "icon":"../assets/images/icons/message_1.png",
-            "description": "Non sei triste, hai solo bisogno di riempire la tua cantina personale! 🍷 Sorpresa: da noi ci sono tantissime bottiglie in PROMO fino al -50%. ",
-            "link": "https://maximoshopping.it/promo/signorvino-la-grande-cantina/"
+            "description": "Vi abbiamo fatto aspettare ma ne è valsa la pena! Ecco a voi il nostro incredibile menù per Deadpool & Wolverine!  🍿🥤💥 Disponibile da questa sera presso tutti i bar dei nostri cinema, assolutamente da non perdere! ️❤️ 💛 Vi aspettiamo!",
+            "link": "https://maximoshopping.it/promo/uci-cinemas-deadpool-wolverine/"
         },
         {
             "id": "2",
-            "title": "Vision Ottica – sconti fino al 50%",
-            "message": "Approfitta degli sconti fino al 50% su tantissimi occhiali da sole",
+            "title": "Gamelife – Promo FC 25",
             "read": false,
-            "image": "../assets/images/occhiali.jpg",
+            "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/FC25_postfb_preorderGAMELIFE-qrhk0ch49ogskwwwpeivoslfblj1wzp6z3r16ytd00.jpg",
             "icon":"../assets/images/icons/message_2.png",
-            "description": "L’estate è arrivata nei centri VisionOttica! Approfitta degli sconti fino al 50% su tantissimi occhiali da sole delle migliori collezioni. Non perdere l’occasione di sfoggiare un nuovo look estivo all’ultima moda, e di proteggere i tuoi occhi dai raggi UV.",
-            "link": "https://maximoshopping.it/promo/vision-ottica-sconti-fino-al-50-su-occhiali-da-sole/"
+            "description": "EA Sports FC 25 è finalmente qui e i preordini sono ufficialmente aperti! Vuoi risparmiare ancora di più? Gamelife supervaluta il tuo usato, vieni in store e scopri di più.",
+            "link": "https://maximoshopping.it/promo/gamelife-promo-fc-25/"
+        },
+        {
+            "id": "3",
+            "title": "Old Wild West programma fedeltà",
+            "read": false,
+            "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/OWW-Rete-1200x1200px-Social-Fidelity-2024-07-qr5g8f2hjyvj1ii66pkj836f0vbusopof2iuidgnps.jpg",
+            "icon":"../assets/images/icons/message_2.png",
+            "description": "Scopri il programma fedeltà Old Wild West!  Attiva la tua card, per te subito un buono omaggio da €5!",
+            "link": "https://maximoshopping.it/promo/old-wild-west-programma-fedelta/"
         }
     ],
     "news": 
@@ -26,7 +34,6 @@
         { 
             "id": "1",
             "title": "Estate al Maximo 2024",
-            "message": "La rassegna di concerti dal vivo organizzata dal Maximo Shopping Center",
             "read": false,
             "image":"../assets/images/concerti.jpg",
             "icon":"../assets/images/icons/message_1.png",
@@ -37,7 +44,6 @@
         {
             "id": "2",
             "title": "I saldi sono arrivati",
-            "message": "Acquista i tuoi marchi preferiti a prezzi scontatissimi!",
             "read": false,
             "image": "../assets/images/saldi.jpg",
             "icon":"../assets/images/icons/message_2.png",
