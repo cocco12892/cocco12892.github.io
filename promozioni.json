@@ -1,21 +1,48 @@
-[
-    {
-        "id": "1",
-        "title": "Signorvino – La Grande Cantina', message: 'tantissime bottiglie in PROMO fino al -50%", 
-        "read": false,
-        "image":"../assets/images/vino.jpg",
-        "icon":"../assets/images/icons/message_1.png",
-        "description": "Non sei triste, hai solo bisogno di riempire la tua cantina personale! 🍷 Sorpresa: da noi ci sono tantissime bottiglie in PROMO fino al -50%. ",
-        "link": "https://maximoshopping.it/promo/signorvino-la-grande-cantina/"
-    },
-    {
-        "id": "2",
-        "title": "Vision Ottica – sconti fino al 50%",
-        "message": "Approfitta degli sconti fino al 50% su tantissimi occhiali da sole",
-        "read": false,
-        "image": "../assets/images/occhiali.jpg",
-        "icon":"../assets/images/icons/message_2.png",
-        "description": "L’estate è arrivata nei centri VisionOttica! Approfitta degli sconti fino al 50% su tantissimi occhiali da sole delle migliori collezioni. Non perdere l’occasione di sfoggiare un nuovo look estivo all’ultima moda, e di proteggere i tuoi occhi dai raggi UV.",
-        "link": "https://maximoshopping.it/promo/vision-ottica-sconti-fino-al-50-su-occhiali-da-sole/"
-    }
-  ]
+{
+    "promozioni": 
+    [
+        {
+            "id": "1",
+            "title": "Signorvino – La Grande Cantina', message: 'tantissime bottiglie in PROMO fino al -50%", 
+            "read": false,
+            "image":"../assets/images/vino.jpg",
+            "icon":"../assets/images/icons/message_1.png",
+            "description": "Non sei triste, hai solo bisogno di riempire la tua cantina personale! 🍷 Sorpresa: da noi ci sono tantissime bottiglie in PROMO fino al -50%. ",
+            "link": "https://maximoshopping.it/promo/signorvino-la-grande-cantina/"
+        },
+        {
+            "id": "2",
+            "title": "Vision Ottica – sconti fino al 50%",
+            "message": "Approfitta degli sconti fino al 50% su tantissimi occhiali da sole",
+            "read": false,
+            "image": "../assets/images/occhiali.jpg",
+            "icon":"../assets/images/icons/message_2.png",
+            "description": "L’estate è arrivata nei centri VisionOttica! Approfitta degli sconti fino al 50% su tantissimi occhiali da sole delle migliori collezioni. Non perdere l’occasione di sfoggiare un nuovo look estivo all’ultima moda, e di proteggere i tuoi occhi dai raggi UV.",
+            "link": "https://maximoshopping.it/promo/vision-ottica-sconti-fino-al-50-su-occhiali-da-sole/"
+        }
+    ],
+    "news": 
+    [
+        { 
+            "id": "1",
+            "title": "Estate al Maximo 2024",
+            "message": "La rassegna di concerti dal vivo organizzata dal Maximo Shopping Center",
+            "read": false,
+            "image":"../assets/images/concerti.jpg",
+            "icon":"../assets/images/icons/message_1.png",
+            "description": "Sophie & The Giants, Rosa Chemical, Arisa e Fausto Leali, i protagonisti di “Estate al Maximo 2024, la rassegna di concerti dal vivo organizzata dal Maximo Shopping Center. Quattro gli appuntamenti in calendario per quattro mercoledì del mese di luglio.",
+            "link": "https://maximoshopping.it/news/estate-al-maximo-2024/"
+        },
+
+        {
+            "id": "2",
+            "title": "I saldi sono arrivati",
+            "message": "Acquista i tuoi marchi preferiti a prezzi scontatissimi!",
+            "read": false,
+            "image": "../assets/images/saldi.jpg",
+            "icon":"../assets/images/icons/message_2.png",
+            "description": "🎉 È ARRIVATO IL MOMENTO CHE TUTTI ASPETTAVANO! 🎉 I saldi sono finalmente iniziati al Maximo Shopping Center! 🛍️ Non perdere l’occasione di acquistare i tuoi marchi preferiti a prezzi scontatissimi. Scopri le offerte imperdibili e rinnova il tuo guardaroba con stile! 💃🕺 Ti aspettiamo!",
+            "link": "https://maximoshopping.it/eventi/i-saldi-sono-arrivati-al-maximo-shopping-center/"
+        }
+    ]
+}
