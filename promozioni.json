@@ -3,33 +3,39 @@
     [
         {
             "id": "1",
-            "title": "Uci Cinemas – Deadpool & Wolverine", 
-            "message": "Disponibile da questa sera presso tutti i bar dei nostri cinema, assolutamente da non perdere!",
+            "title": "Excelsa novità agosto", 
+            "message": "Novità da Excélsa! Pesci colorati, fiori e frutti mediterranei e l’immancabile abbinamento del bianco e del blu!",
             "read": false,
-            "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/SOCIAL-1080X1080-2-1-qrjayhlh2in7517s0yev0xvsxs03b44l7gt5eis7ww.jpg",
+            "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/980x980px-3-qraczp1c1lpzwnhn49s5xc5fnrjpjghbyd6yzikh00.jpg",
             "icon":"../assets/images/icons/message_1.png",
-            "description": "Vi abbiamo fatto aspettare ma ne è valsa la pena! Ecco a voi il nostro incredibile menù per Deadpool & Wolverine!  🍿🥤💥 Disponibile da questa sera presso tutti i bar dei nostri cinema, assolutamente da non perdere! ️❤️ 💛 Vi aspettiamo!",
-            "link": "https://maximoshopping.it/promo/uci-cinemas-deadpool-wolverine/"
+            "link": "https://maximoshopping.it/promo/excelsa-promo-agosto/"
         },
         {
             "id": "2",
-            "title": "Gamelife – Promo FC 25",
-            "message": "EA Sports FC 25 è finalmente qui e i preordini sono ufficialmente aperti!",
+            "title": "Pam Superstore – promo",
+            "message": "SCONTO SUL SECONDO PEZZO da Pam Panorama!",
             "read": false,
-            "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/FC25_postfb_preorderGAMELIFE-qrhk0ch49ogskwwwpeivoslfblj1wzp6z3r16ytd00.jpg",
+            "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/C1_PAMPANO_1200x1200_LAURENTINO-1-scaled-qrj7hjvqo9m5ywoykg913yv6h1sr7f4z136s1i10y8.jpg",
             "icon":"../assets/images/icons/message_2.png",
-            "description": "EA Sports FC 25 è finalmente qui e i preordini sono ufficialmente aperti! Vuoi risparmiare ancora di più? Gamelife supervaluta il tuo usato, vieni in store e scopri di più.",
-            "link": "https://maximoshopping.it/promo/gamelife-promo-fc-25/"
+            "link": "https://maximoshopping.it/promo/pam-superstore-promo/"
         },
         {
             "id": "3",
+            "title": "Carpisa – Metà Prezzo",
+            "message": "Acquista il tuo accessorio preferito a META’ PREZZO.",
+            "read": false,
+            "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/CARPISA_MetaPrezzo_1080x1080_02-qrccctgvrynorvp18seyz10mh4o01bpzucfg1xaya8.jpg",
+            "icon":"../assets/images/icons/message_2.png",
+            "link": "https://maximoshopping.it/promo/carpisa-meta-prezzo/"
+        },
+        {
+            "id": "4",
             "title": "Old Wild West programma fedeltà",
             "message": "Scopri il programma fedeltà Old Wild West!  Attiva la tua card, per te subito un buono omaggio da €5!",
             "read": false,
             "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/OWW-Rete-1200x1200px-Social-Fidelity-2024-07-qr5g8f2hjyvj1ii66pkj836f0vbusopof2iuidgnps.jpg",
             "icon":"../assets/images/icons/message_2.png",
-            "description": "Scopri il programma fedeltà Old Wild West!  Attiva la tua card, per te subito un buono omaggio da €5!",
-            "link": "https://maximoshopping.it/promo/old-wild-west-programma-fedelta/"
+            "link": "https://maximoshopping.it/promo/carpisa-meta-prezzo/"
         }
     ],
     "news": 
