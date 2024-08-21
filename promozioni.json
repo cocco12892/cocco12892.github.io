@@ -4,7 +4,7 @@
         {
             "id": "1",
             "title": "Excelsa novità agosto", 
-            "message": "Novità da Excélsa! Pesci colorati, fiori e frutti mediterranei e l’immancabile abbinamento del bianco e del blu!",
+            "message": "Dal 1 al 31 agosto",
             "read": false,
             "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/980x980px-3-qraczp1c1lpzwnhn49s5xc5fnrjpjghbyd6yzikh00.jpg",
             "icon":"../assets/images/icons/message_1.png",
@@ -12,26 +12,26 @@
         },
         {
             "id": "2",
-            "title": "Pam Superstore – promo",
-            "message": "SCONTO SUL SECONDO PEZZO da Pam Panorama!",
+            "title": "Naima All Scent promo agosto",
+            "message": "Fino al 25 agosto",
             "read": false,
-            "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/C1_PAMPANO_1200x1200_LAURENTINO-1-scaled-qrj7hjvqo9m5ywoykg913yv6h1sr7f4z136s1i10y8.jpg",
+            "image": "https://maximoshopping.it/wp-content/uploads/Non-organizzati/Tavola-disegno-1.png",
             "icon":"../assets/images/icons/message_2.png",
             "link": "https://maximoshopping.it/promo/pam-superstore-promo/"
         },
         {
             "id": "3",
-            "title": "Carpisa – Metà Prezzo",
-            "message": "Acquista il tuo accessorio preferito a META’ PREZZO.",
+            "title": "Centri Unico – Promo agosto",
+            "message": "Dall'8 al 31 agosto",
             "read": false,
-            "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/CARPISA_MetaPrezzo_1080x1080_02-qrccctgvrynorvp18seyz10mh4o01bpzucfg1xaya8.jpg",
+            "image": "https://maximoshopping.it/wp-content/uploads/Non-organizzati/CU_CC-Maximo_980x980.jpg",
             "icon":"../assets/images/icons/message_2.png",
             "link": "https://maximoshopping.it/promo/carpisa-meta-prezzo/"
         },
         {
             "id": "4",
             "title": "Old Wild West programma fedeltà",
-            "message": "Scopri il programma fedeltà Old Wild West!  Attiva la tua card, per te subito un buono omaggio da €5!",
+            "message": "Dal 15 luglio",
             "read": false,
             "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/OWW-Rete-1200x1200px-Social-Fidelity-2024-07-qr5g8f2hjyvj1ii66pkj836f0vbusopof2iuidgnps.jpg",
             "icon":"../assets/images/icons/message_2.png",
