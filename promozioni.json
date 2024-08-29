@@ -350,10 +350,11 @@
         },
         {
             "activity_id":18,
+            "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/980x980px-3-qraczp1c1lpzwnhn49s5xc5fnrjpjghbyd6yzikh00.jpg",
             "note": {
                 "descrizione": "Visita questo luogo e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
-                "link": "link_a_pagina_dedicata"
+                "link": "https://palmu.it/maximo-ti-premia-termini-e-condizioni/"
             }
         },
         {
