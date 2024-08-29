@@ -47,17 +47,17 @@
             "read": false,
             "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Max_saldi-estivi-2024_1200x1200_giu24-qqnmncls0uqaiia9udihq1wrd3u8dlyaj71851pseo.jpg",
             "icon":"../assets/images/icons/message_1.png",
-            "description": "🎉 È ARRIVATO IL MOMENTO CHE TUTTI ASPETTAVANO! 🎉 I saldi sono finalmente iniziati al Maximo Shopping Center! 🛍️ Non perdere l’occasione di acquistare i tuoi marchi preferiti a prezzi scontatissimi. Scopri le offerte imperdibili e rinnova il tuo guardaroba con stile! 💃🕺 Ti aspettiamo!",
+            "description": "🎉 È ARRIVATO IL MOMENTO CHE TUTTI ASPETTAVANO! 🎉 I saldi sono finalmente iniziati al Maximo Shopping Center! 🛍️ Non perdere l'occasione di acquistare i tuoi marchi preferiti a prezzi scontatissimi. Scopri le offerte imperdibili e rinnova il tuo guardaroba con stile! 💃🕺 Ti aspettiamo!",
             "link": "https://maximoshopping.it/eventi/i-saldi-sono-arrivati-al-maximo-shopping-center/"
         },
         {
             "id": "2",
             "title": "La “QUIET ROOM” al Maximo Shopping Center. Gioca con noi!",
-            "message": "Dal 22 al 27 Giugno, immergiti nell’atmosfera di “A Quiet Place – Giorno 1” entrando nella “Quiet Room” al Maximo Shopping Center.",
+            "message": "Dal 22 al 27 Giugno, immergiti nell'atmosfera di “A Quiet Place – Giorno 1” entrando nella “Quiet Room” al Maximo Shopping Center.",
             "read": false,
             "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Maximo_1080x1080-1-qpu429mj8x56g70sz9psr32h48eyo3v5w0j3s3xyq8.png",
             "icon":"../assets/images/icons/message_2.png",
-            "description": "Dal 22 al 27 Giugno, immergiti nell’atmosfera di “A Quiet Place – Giorno 1” entrando nella “Quiet Room” al Maximo Shopping Center.",
+            "description": "Dal 22 al 27 Giugno, immergiti nell'atmosfera di “A Quiet Place – Giorno 1” entrando nella “Quiet Room” al Maximo Shopping Center.",
             "link": "https://maximoshopping.it/news/la-quiet-room-al-maximo-shopping-center-gioca-con-noi/"
         },
         {
@@ -103,5 +103,266 @@
             "description": "Scopri come avere la Maximo Gift Card",
             "link": "https://maximoshopping.it/gift-card/"
         }
-    ]
+    ],
+    "response_code" : [
+        {
+            "code": 0,
+            "message": "No error occurred"
+        },
+        {
+            "code": 1,
+            "message": "Missing or empty email field"
+        },
+        {
+            "code": 2,
+            "message": "Missing or empty nickname field"
+        },
+        {
+            "code": 3,
+            "message": "Email specified is not a valid email address"
+        },
+        {
+            "code": 4,
+            "message": "Nickname is not valid (Only alphanumeric and it must begin with a letter)"
+        },
+        {
+            "code": 5,
+            "message": "Missing or empty password field"
+        },
+        {
+            "code": 6,
+            "message": "Missing or empty 'name' and/or 'surname' field"
+        },
+        {
+            "code": 7,
+            "message": "Missing or empty 'name' field"
+        },
+        {
+            "code": 8,
+            "message": "Email is already registered"
+        },
+        {
+            "code": 9,
+            "message": "Nickname is already registered"
+        },
+        {
+            "code": 10,
+            "message": "Password is not enough strong"
+        },
+        {
+            "code": 11,
+            "message": "Insufficient right"
+        },
+        {
+            "code": 12,
+            "message": "Email can't be modified"
+        },
+        {
+            "code": 13,
+            "message": "Nickname can't be modified"
+        },
+        {
+            "code": 14,
+            "message": "A physical user must have name and surname not empty"
+        },
+        {
+            "code": 15,
+            "message": "A not physical user must have name not empty"
+        },
+        {
+            "code": 16,
+            "message": "Old password is not valid"
+        },
+        {
+            "code": 17,
+            "message": "New password is not specified"
+        },
+        {
+            "code": 18,
+            "message": "New password is equal to old password"
+        },
+        {
+            "code": 19,
+            "message": "Invalid activity"
+        },
+        {
+            "code": 20,
+            "message": "Invalid quantity"
+        },
+        {
+            "code": 21,
+            "message": "Reached daily limit"
+        },
+        {
+            "code": 22,
+            "message": "Promoter not found"
+        },
+        {
+            "code": 23,
+            "message": "Invalid unlock code"
+        },
+        {
+            "code": 24,
+            "message": "Insufficient funds"
+        },
+        {
+            "code": 25,
+            "message": "Card is already at the highest level"
+        },
+        {
+            "code": 26,
+            "message": "User not found"
+        },
+        {
+            "code": 27,
+            "message": "Promoter is already registered"
+        },
+        {
+            "code": 28,
+            "message": "Invalid promoter type"
+        },
+        {
+            "code": 29,
+            "message": "Promoter id not specified or not valid"
+        },
+        {
+            "code": 30,
+            "message": "Actor is already registered"
+        },
+        {
+            "code": 31,
+            "message": "Invalid actor type"
+        },
+        {
+            "code": 32,
+            "message": "Missing or empty 'rand' field"
+        },
+        {
+            "code": 33,
+            "message": "Invalid checksum"
+        },
+        {
+            "code": 34,
+            "message": "Missing or empty 'contacts' field"
+        },
+        {
+            "code": 35,
+            "message": "Missing or empty 'ts' field"
+        },
+        {
+            "code": 36,
+            "message": "Invalid QR code"
+        },
+        {
+            "code": 37,
+            "message": "Activity cannot be repeated again"
+        },
+        {
+            "code": 38,
+            "message": "Actor not found"
+        },
+        {
+            "code": 39,
+            "message": "Voucher already spent"
+        },
+        {
+            "code": 40,
+            "message": "Promoter description is not specified"
+        },
+        {
+            "code": 41,
+            "message": "Promoter type not valid or not specified"
+        },
+        {
+            "code": 42,
+            "message": "Promoter unlock strategy not valid"
+        },
+        {
+            "code": 43,
+            "message": "Actor type not valid or not specified"
+        },
+        {
+            "code": 44,
+            "message": "Unable to complete activity due to elapsed interval not sufficient"
+        },
+        {
+            "code": 45,
+            "message": "System is unable to send email. Contact support or try later"
+        }
+    ],
+    "offline_mode": true,
+    "offline_mode_messages":[
+        {
+            "activity_id": 1,
+            "descrizione": {
+                "note": "Raggiungi il Maximo Shopping Center e clicca sul tasto 'Sono arrivato'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
+                "link": "link_a_pagina_dedicata"
+            }
+        },
+        {
+            "activity_id": 2,
+            "descrizione": {
+                "note": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
+                "link": "link_a_pagina_dedicata"
+            }
+        },
+        {
+            "activity_id": 3,
+            "descrizione": {
+                "note": "Recati al Maximo Shopping Center e scansiona il QR Code presso il nostro InfoPoint. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
+                "link": "link_a_pagina_dedicata"
+            }
+        },
+        {
+            "activity_id": 4,
+            "descrizione": {
+                "note": "Completa tutte le attività previste dalla Challenge per ricevere una Maximo Gift Card del valore indicato in euro.",
+                "link_text": "Clicca su ciascuna attività per conoscere i dettagli dell’azione da compiere. Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
+                "link": "link_a_pagina_dedicata"
+            }
+        },
+        {
+            "activity_id": 5,
+            "descrizione": {
+                "note": "Cammina da solo o in compagnia dove preferisci per raggiungere l’obiettivo e guadagnare i punti sostenibilità del valore indicato. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "link": "link_a_pagina_dedicata"
+            }
+        },
+        {
+            "activity_id": 6,
+            "descrizione": {
+                "note": "Fai un giro con la bicicletta da solo o in compagnia dove preferisci per raggiungere l’obiettivo e guadagnare i punti sostenibilità del valore indicato. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "link": "link_a_pagina_dedicata"
+            }
+        },
+        {
+            "activity_id": 7,
+            "descrizione": {
+                "note": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "link": "link_a_pagina_dedicata"
+            }
+        },
+        {
+            "activity_id": 8,
+            "descrizione": {
+                "note": "Visita questo luogo e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "link": "link_a_pagina_dedicata"
+            }
+        },
+        {
+            "activity_id": 9,
+            "descrizione": {
+                "note": "Visita uno dei luoghi disponibili e clicca sul tasto 'Sono arrivato'. VEDI LUOGHI (menu a tendina o link con i luoghi d’interesse che attribuiscono punti). Completando questa azione, riceverai i punti indicati che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "link": "link_a_pagina_dedicata"
+            }
+        }
+    ]  
 }
