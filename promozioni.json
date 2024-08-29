@@ -293,73 +293,73 @@
     "offline_mode": true,
     "offline_mode_messages":[
         {
-            "activity_id": 1,
-            "descrizione": {
-                "note": "Raggiungi il Maximo Shopping Center e clicca sul tasto 'Sono arrivato'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+            "activity_id": 5,
+            "note": {
+                "descrizione": "Raggiungi il Maximo Shopping Center e clicca sul tasto 'Sono arrivato'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
                 "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
                 "link": "link_a_pagina_dedicata"
             }
         },
         {
-            "activity_id": 2,
-            "descrizione": {
-                "note": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+            "activity_id": 12,
+            "note": {
+                "descrizione": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
                 "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
                 "link": "link_a_pagina_dedicata"
             }
         },
         {
-            "activity_id": 3,
-            "descrizione": {
-                "note": "Recati al Maximo Shopping Center e scansiona il QR Code presso il nostro InfoPoint. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+            "activity_id": 11,
+            "note": {
+                "descrizione": "Recati al Maximo Shopping Center e scansiona il QR Code presso il nostro InfoPoint. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
                 "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
                 "link": "link_a_pagina_dedicata"
             }
         },
         {
             "activity_id": 4,
-            "descrizione": {
-                "note": "Completa tutte le attività previste dalla Challenge per ricevere una Maximo Gift Card del valore indicato in euro.",
-                "link_text": "Clicca su ciascuna attività per conoscere i dettagli dell’azione da compiere. Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
+            "note": {
+                "descrizione": "Completa tutte le attività previste dalla Challenge per ricevere una Maximo Gift Card del valore indicato in euro.",
+                "link_text": "Clicca su ciascuna attività per conoscere i dettagli dell'azione da compiere. Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
                 "link": "link_a_pagina_dedicata"
             }
         },
         {
             "activity_id": 5,
-            "descrizione": {
-                "note": "Cammina da solo o in compagnia dove preferisci per raggiungere l’obiettivo e guadagnare i punti sostenibilità del valore indicato. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+            "note": {
+                "descrizione": "Cammina da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
                 "link": "link_a_pagina_dedicata"
             }
         },
         {
             "activity_id": 6,
-            "descrizione": {
-                "note": "Fai un giro con la bicicletta da solo o in compagnia dove preferisci per raggiungere l’obiettivo e guadagnare i punti sostenibilità del valore indicato. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+            "note": {
+                "descrizione": "Fai un giro con la bicicletta da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
                 "link": "link_a_pagina_dedicata"
             }
         },
         {
             "activity_id": 7,
-            "descrizione": {
-                "note": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+            "note": {
+                "descrizione": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
                 "link": "link_a_pagina_dedicata"
             }
         },
         {
             "activity_id": 8,
-            "descrizione": {
-                "note": "Visita questo luogo e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+            "note": {
+                "descrizione": "Visita questo luogo e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
                 "link": "link_a_pagina_dedicata"
             }
         },
         {
             "activity_id": 9,
-            "descrizione": {
-                "note": "Visita uno dei luoghi disponibili e clicca sul tasto 'Sono arrivato'. VEDI LUOGHI (menu a tendina o link con i luoghi d’interesse che attribuiscono punti). Completando questa azione, riceverai i punti indicati che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+            "note": {
+                "descrizione": "Visita uno dei luoghi disponibili e clicca sul tasto 'Sono arrivato'. VEDI LUOGHI (menu a tendina o link con i luoghi d'interesse che attribuiscono punti). Completando questa azione, riceverai i punti indicati che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
                 "link": "link_a_pagina_dedicata"
             }
