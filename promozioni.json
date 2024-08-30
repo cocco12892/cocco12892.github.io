@@ -358,7 +358,7 @@
             }
         },
         {
-            "activity_id": 7,
+            "activity_id": 9,
             "note": {
                 "descrizione": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
@@ -375,7 +375,7 @@
             }
         },
         {
-            "activity_id": 9,
+            "activity_id": 7,
             "note": {
                 "descrizione": "Visita uno dei luoghi disponibili e clicca sul tasto 'Sono arrivato'. VEDI LUOGHI (menu a tendina o link con i luoghi d'interesse che attribuiscono punti). Completando questa azione, riceverai i punti indicati che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
