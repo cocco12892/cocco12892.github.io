@@ -293,6 +293,14 @@
     "offline_mode": true,
     "offline_mode_messages":[
         {
+            "challenge_id": 2,
+            "note": {
+                "descrizione": "Cammina da solo o in compagnia dove preferisci per raggiungere l'obiettivo di sostenibilità e guadagnare 1 punto.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "link": "https://palmu.it/maximo-ti-premia-termini-e-condizioni/"
+            }
+        },
+        {
             "activity_id": 1,
             "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/980x980px-3-qraczp1c1lpzwnhn49s5xc5fnrjpjghbyd6yzikh00.jpg",
             "note": {
