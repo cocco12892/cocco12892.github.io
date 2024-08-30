@@ -374,5 +374,79 @@
                 "link": "link_a_pagina_dedicata"
             }
         }
-    ]  
+    ],
+    "termini_condizioni": {
+        "titolo": "Termini e Condizioni di www.palmu.it",
+        "descrizione": "Di seguito sono riportati i termini e le condizioni per l'uso dell'applicazione Palmu che consente agli utenti di un centro commerciale di partecipare a promozioni ed eventi e di ricevere crediti e buoni acquisto per attività considerate virtuose o comunque positive per l'individuo o per la collettività (riciclare le bottiglie di plastica, camminare per 10.000 passi ogni giorno, ecc.) e come il riciclaggio o il camminare 10.000 passi al giorno.",
+        "paragrafi": [
+          {
+            "titolo": "Panoramica",
+            "testo": "I presenti Termini e condizioni (\"Termini\") regolano il rapporto tra la società _____, di seguito semplicemente indicato anche come “Sviluppatore”, e gli utenti dell'applicazione mobile Palmu, di seguito semplicemente indicata anche come \"App\". L'App è progettata per facilitare la partecipazione a promozioni ed eventi organizzati dal centro commerciale scelto dall'utente e dai singoli negozi che ne fanno parte, nonché per premiare gli Utenti con crediti e buoni acquisto per l'esercizio di attività che abbiano effetti positivi sulla persona o sulla collettività. Termini e condizioni possono essere soggetti a modifiche a discrezione dello Sviluppatore. L'utente è tenuto a prendere visione periodicamente del presente documento per verificarne l'aggiornamento."
+          },
+          {
+            "titolo": "Accettazione",
+            "testo": "Per utilizzare l'app è necessario registrarsi e dichiarare di avere almeno 18 anni. Scaricare, accedere al servizio o utilizzare l'app comporta l'accettazione delle norme contenute nel presente documento. Se l'utente non intende accettare, in tutto o in parte, termini e condizioni di cui al presente documento, non deve scaricare, accedere o utilizzare l'app."
+          },
+          {
+            "titolo": "Requisito della maggiore età",
+            "testo": "Per utilizzare l'App è necessario avere almeno 18 anni. Non è consentito l'uso dell'applicazione a soggetti infradiciottenni. Scaricando, accedendo o utilizzando l'app, l'utente dichiara di avere almeno 18 anni e di essere pienamente capace d'agire e di stipulare un contratto."
+          },
+          {
+            "titolo": "Registrazione dell'account",
+            "testo": "Per partecipare a promozioni ed eventi e per ricevere i premi, è necessario registrare un account a proprio nome. L'utente accetta di fornire informazioni accurate, aggiornate e complete durante il processo di registrazione e di aggiornare tali informazioni se necessario."
+          },
+          {
+            "titolo": "Utilizzo dell'App",
+            "sottosezioni": [
+              {
+                "titolo": "Promozioni ed eventi",
+                "testo": "L'App consente agli Utenti di partecipare a promozioni ed eventi organizzati dal centro commerciale e dai singoli negozi che ne fanno parte. I termini di partecipazione ad ogni promozione o evento saranno specificati all'interno dell'App mediante avvisi e richiami specifici."
+              },
+              {
+                "titolo": "Premi",
+                "testo": "Gli utenti possono guadagnare crediti e premi per l'impegno in determinate attività, come il riciclo della plastica o il rispetto di buone prassi per mantenersi in salute. I criteri di attribuzione dei crediti e dei premi sono stabiliti dai regolamenti delle singole iniziative, rispetto alle quali l'app è semplicemente uno strumento di divulgazione e partecipazione."
+              },
+              {
+                "titolo": "Non trasferibilità",
+                "testo": "I crediti e i premi guadagnati tramite l'App sono personali e non cedibili, devono essere maturati personalmente dal singolo utente registrato, e sono spendibili solo presso il medesimo negozio o centro commerciale aderente all'iniziativa. Non sono cumulabili e non sono trasferibili o cedibili a terzi. Non sono convertibili in denaro. Lo Sviluppatore si riserva il diritto di modificare o interrompere il programma riguardante premi e crediti in qualsiasi momento senza che ciò possa costituire alcun diritto in capo all'utente, fatta salva la consegna dei premi o l'uso dei crediti già maturati."
+              }
+            ]
+          },
+          {
+            "titolo": "Condotta dell'utente",
+            "testo": "L'utente si impegna a non fornire false informazioni e a non svolgere attività fraudolente finalizzate ad aumentare i crediti e premi ottenibili tramite l'app. Si impegna, altresì, a non cedere il dispositivo a terzi al fine di incrementare in modo illecito o fraudolento le attività ed alterare i risultati delle stesse. Si impegna, infine, a non modificare o compromettere il normale funzionamento dell'applicazione."
+          },
+          {
+            "titolo": "Sospensione e cessazione dell'account",
+            "testo": "Oltre che su richiesta dell'utente, lo Sviluppatore si riserva il diritto di interrompere o sospendere l'account in qualsiasi momento in caso di condotte illecite dell'utente, violazione di norme imperative dell'ordinamento giuridico, realizzazione, da parte dell'utente o di soggetti a lui riconducibili, di attività comunque vietate da norme o regolamenti."
+          },
+          {
+            "titolo": "Clausole generali",
+            "sottosezioni": [
+              {
+                "titolo": "Raccolta dati e privacy",
+                "testo": "I dati saranno trattati dallo Sviluppatore, in qualità di titolare del trattamento, con le modalità di cui all'informativa allegata al presente documento. Contitolare del trattamento è ciascun centro commerciale selezionato dall'utente per aderire alle iniziative. I dati non saranno in alcun caso condivisi con gli altri centri commerciali che l'utente non avrà selezionato."
+              },
+              {
+                "titolo": "Monitoraggio dell'attività",
+                "testo": "L'uso dell'app comporta il tracciamento di determinate attività necessarie per l'attribuzione dei premi e dei punteggi relativi alle singole iniziative promozionali. Lo sviluppatore si riserva il diritto di elaborare i dati acquisiti per finalità statistiche, dopo un procedimento di de-identificazione consistente nel privare le attività dell'anagrafica utente."
+              },
+              {
+                "titolo": "Proprietà intellettuale",
+                "testo": "L'App, inclusi i suoi contenuti, caratteristiche e funzionalità, è di proprietà esclusiva dello Sviluppatore e dei suoi licenziatari. All'utente viene concessa una licenza limitata, non esclusiva, non trasferibile e revocabile per l'utilizzo dell'App per uso personale e non commerciale. All'utente è vietato copiare, modificare, distribuire, vendere o noleggiare l'app. in tutto o in parte, così come compiere attività di analisi del codice, di reverse engineering, di riproduzione delle funzioni, anche parzialmente, in tutto o in parte, senza l'autorizzazione scritta dello Sviluppatore."
+              },
+              {
+                "titolo": "Limitazione di responsabilità",
+                "testo": "L'App viene fornita nello stato in cui si trova ed è realizzata dallo sviluppatore, senza alcuna garanzia di funzionamento adeguato alle esigenze dell'utente. Lo Sviluppatore non fornisce alcuna garanzia, esplicita o implicita, in merito alle prestazioni, all'accuratezza, all'affidabilità o all'idoneità dell'App per uno scopo particolare. Lo Sviluppatore declina ogni responsabilità connessa all'uso improprio dell'applicazione o per risultati non rispondenti alle aspettative dell'utente, fatto salvo quanto dovuto per legge. In ogni caso, essendo l'uso dell'applicazione a titolo gratuito per l'utente, lo Sviluppatore non sarà responsabile di alcun danno direttamente o indirettamente arrecato all'utente dall'uso dell'app, qualunque ne sia la ragione o la causa."
+              }
+            ]
+          },
+          {
+            "titolo": "Legge applicabile, interpretazione e giurisdizione",
+            "testo": "Il presente accordo è regolato dalla legge italiana. Eventuali controversie inerenti la sua interpretazione o concreta applicazione saranno devoluti al foro del consumatore, come previsto dall'art. 63 del D. Lgs. 206/2005. Il presente accordo regola per intero i rapporti tra lo Sviluppatore e l'utente in merito all'utilizzo dell'App e sostituisce qualsiasi accordo precedente. Se una qualsiasi disposizione del presente accordo sarà considerata o dichiara invalida o inapplicabile, le restanti clausole rimarranno valide ed efficaci, salvo che il risultato non sia palesemente inapplicabile o irragionevole. L'eventuale tolleranza, da parte dello Sviluppatore, di comportamenti contrari al presente accordo non costituisce acquiescenza e non attribuisce all'utente alcun diritto."
+          }
+        ],
+        "dataAggiornamento": "27/03/2024"
+      }
+      
 }
