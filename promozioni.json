@@ -304,33 +304,9 @@
             "activity_id": 1,
             "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/980x980px-3-qraczp1c1lpzwnhn49s5xc5fnrjpjghbyd6yzikh00.jpg",
             "note": {
-                "descrizione": "Cammina da solo o in compagnia dove preferisci per raggiungere l'obiettivo di sostenibilità e guadagnare 1 punto.",
+                "descrizione": "Cammina da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
-                "link": "https://palmu.it/maximo-ti-premia-termini-e-condizioni/"
-            }
-        },
-        {
-            "activity_id": 5,
-            "note": {
-                "descrizione": "Raggiungi il Maximo Shopping Center e clicca sul tasto 'Sono arrivato'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
-                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
-                "link": "link_a_pagina_dedicata"
-            }
-        },
-        {
-            "activity_id": 12,
-            "note": {
-                "descrizione": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
-                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
-                "link": "link_a_pagina_dedicata"
-            }
-        },
-        {
-            "activity_id": 11,
-            "note": {
-                "descrizione": "Recati al Maximo Shopping Center e scansiona il QR Code presso il nostro InfoPoint. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
-                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
-                "link": "link_a_pagina_dedicata"
+                "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
         },
         {
@@ -344,9 +320,9 @@
         {
             "activity_id": 5,
             "note": {
-                "descrizione": "Cammina da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
-                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
-                "link": "link_a_pagina_dedicata"
+                "descrizione": "Raggiungi il Maximo Shopping Center e clicca sul tasto 'Sono arrivato'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
+                "link": "https://palmu.it/maximo-ti-premia-termini-e-condizioni/"
             }
         },
         {
@@ -354,14 +330,46 @@
             "note": {
                 "descrizione": "Fai un giro con la bicicletta da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+        },
+        {
+            "activity_id": 7,
+            "note": {
+                "descrizione": "Visita uno dei luoghi disponibili e clicca sul tasto 'Sono arrivato'. VEDI LUOGHI (menu a tendina o link con i luoghi d'interesse che attribuiscono punti). Completando questa azione, riceverai i punti indicati che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+        },
+        {
+            "activity_id": 9, 
+            "note": {
+                "descrizione": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+        },
+        {
+            "activity_id": 10,
+            "note": {
+                "descrizione": "Raggiungi il Maximo Shopping Center e clicca sul tasto 'Sono arrivato'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
+                "link": "https://palmu.it/maximo-ti-premia-termini-e-condizioni/"
+            }
+        },
+        {
+            "activity_id": 11,
+            "note": {
+                "descrizione": "Recati al Maximo Shopping Center e scansiona il QR Code presso il nostro InfoPoint. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
                 "link": "link_a_pagina_dedicata"
             }
         },
         {
-            "activity_id": 9,
+            "activity_id": 12,
             "note": {
-                "descrizione": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
-                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+                "descrizione": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
+                "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
                 "link": "link_a_pagina_dedicata"
             }
         },
@@ -371,15 +379,7 @@
             "note": {
                 "descrizione": "Visita questo luogo e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
-                "link": "https://palmu.it/maximo-ti-premia-termini-e-condizioni/"
-            }
-        },
-        {
-            "activity_id": 7,
-            "note": {
-                "descrizione": "Visita uno dei luoghi disponibili e clicca sul tasto 'Sono arrivato'. VEDI LUOGHI (menu a tendina o link con i luoghi d'interesse che attribuiscono punti). Completando questa azione, riceverai i punti indicati che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
-                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
-                "link": "link_a_pagina_dedicata"
+                "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
         }
     ],
