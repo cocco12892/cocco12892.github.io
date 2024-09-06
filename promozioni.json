@@ -75,23 +75,13 @@
     [
         { 
             "id": "1",
-            "title": "I saldi sono arrivati al Maximo Shopping Center",
-            "message": "🎉 È ARRIVATO IL MOMENTO CHE TUTTI ASPETTAVANO! 🎉 I saldi sono finalmente iniziati al Maximo Shopping Center!",
+            "title": "15 Settembre: il Maximo Shopping Center ospiterà “Gran Galà Maximo”, il Raduno Turistico Regionale in Vespa",
+            "message": "Il 15 Settembre, Vespa Motor Club Roma e Maximo Shopping Center organizzano “Il Gran Gala Maximo 2024”, il Raduno Turistico Regionale che prevede l’esposizione di oltre 100 Vespa e Sfilata in Piazza Gabriella Ferri a partire dalle ore 11.00.",
             "read": false,
-            "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Max_saldi-estivi-2024_1200x1200_giu24-qqnmncls0uqaiia9udihq1wrd3u8dlyaj71851pseo.jpg",
+            "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/max_vespa-raduno_1200x1200-scaled-qs97wl2muhh8atjbt8bai3ubbgeo5vlp77l2hucdg0.jpg",
             "icon":"../assets/images/icons/message_1.png",
-            "description": "🎉 È ARRIVATO IL MOMENTO CHE TUTTI ASPETTAVANO! 🎉 I saldi sono finalmente iniziati al Maximo Shopping Center! 🛍️ Non perdere l'occasione di acquistare i tuoi marchi preferiti a prezzi scontatissimi. Scopri le offerte imperdibili e rinnova il tuo guardaroba con stile! 💃🕺 Ti aspettiamo!",
-            "link": "https://maximoshopping.it/eventi/i-saldi-sono-arrivati-al-maximo-shopping-center/"
-        },
-        {
-            "id": "2",
-            "title": "La “QUIET ROOM” al Maximo Shopping Center. Gioca con noi!",
-            "message": "Dal 22 al 27 Giugno, immergiti nell'atmosfera di “A Quiet Place – Giorno 1” entrando nella “Quiet Room” al Maximo Shopping Center.",
-            "read": false,
-            "image": "https://maximoshopping.it/wp-content/uploads/elementor/thumbs/Maximo_1080x1080-1-qpu429mj8x56g70sz9psr32h48eyo3v5w0j3s3xyq8.png",
-            "icon":"../assets/images/icons/message_2.png",
-            "description": "Dal 22 al 27 Giugno, immergiti nell'atmosfera di “A Quiet Place – Giorno 1” entrando nella “Quiet Room” al Maximo Shopping Center.",
-            "link": "https://maximoshopping.it/news/la-quiet-room-al-maximo-shopping-center-gioca-con-noi/"
+            "description": "Il 15 Settembre, Vespa Motor Club Roma e Maximo Shopping Center organizzano “Il Gran Gala Maximo 2024”, il Raduno Turistico Regionale che prevede l’esposizione di oltre 100 Vespa e Sfilata in Piazza Gabriella Ferri a partire dalle ore 11.00.",
+            "link": "https://maximoshopping.it/news/15-settembre-il-maximo-shopping-center-ospitera-gran-gala-maximo-il-raduno-turistico-regionale-in-vespa/"
         }
     ],
     "slidesData" : [
