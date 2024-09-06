@@ -75,6 +75,16 @@
     [
         { 
             "id": "1",
+            "title": "NUOVI ORARI Maximo Shopping Center",
+            "message": "Dal 2 Settembre il Maximo Shopping Center cambia orari!",
+            "read": false,
+            "image":"https://maximoshopping.it/wp-content/uploads/elementor/thumbs/max_orari-estivi_1200x1200_ago24-qta3m8s8w0vbgwrr215a4j84snty7gzsrnm2bwa1ao.jpg",
+            "icon":"../assets/images/icons/message_1.png",
+            "description": " Dal 2 Settembre il Maximo Shopping Center cambia orari!",
+            "link": "https://maximoshopping.it/news/nuovi-orari-maximo-shopping-center/"
+        },
+        { 
+            "id": "2",
             "title": "15 Settembre: il Maximo Shopping Center ospiterà “Gran Galà Maximo”, il Raduno Turistico Regionale in Vespa",
             "message": "Il 15 Settembre, Vespa Motor Club Roma e Maximo Shopping Center organizzano “Il Gran Gala Maximo 2024”, il Raduno Turistico Regionale che prevede l’esposizione di oltre 100 Vespa e Sfilata in Piazza Gabriella Ferri a partire dalle ore 11.00.",
             "read": false,
