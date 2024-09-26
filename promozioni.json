@@ -115,12 +115,6 @@
     },
     "banners" :[
         {
-            "image": "../assets/images/eventi_maximo_3.png",
-            "title": "Eventi",
-            "description": "Scopri tutti gli eventi del Maximo Shopping Center",
-            "link": "https://maximoshopping.it/news-eventi/magazine"
-        },
-        {
             "image": "../assets/images/gift_card.png",
             "title": "Vuoi fare un regalo?",
             "description": "Scopri come avere la Maximo Gift Card",
