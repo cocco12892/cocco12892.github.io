@@ -388,7 +388,79 @@
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
                 "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
-        }
+        },
+        {
+            "activity_id": 30,
+            "note": {
+              "descrizione": "Visita il Palazzo della Civiltà Italiana e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+              "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+              "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+          },
+          {
+            "activity_id": 32,
+            "note": {
+              "descrizione": "Visita il Museo storico della Comunicazione e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+              "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+              "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+          },
+          {
+            "activity_id": 33,
+            "note": {
+              "descrizione": "Visita il Fungo dell'EUR e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+              "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+              "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+          },
+          {
+            "activity_id": 34,
+            "note": {
+              "descrizione": "Visita l'Obelisco Marconi e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+              "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+              "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+          },
+          {
+            "activity_id": 35,
+            "note": {
+              "descrizione": "Visita il Palazzo dello Sport di Roma e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+              "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+              "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+          },
+          {
+            "activity_id": 37,
+            "note": {
+              "descrizione": "Visita il Museo delle Civiltà e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+              "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+              "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+          },
+          {
+            "activity_id": 38,
+            "note": {
+              "descrizione": "Visita il Centro Congresso ''La Nuvola'' e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+              "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+              "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+          },
+          {
+            "activity_id": 39,
+            "note": {
+              "descrizione": "Visita il Giardino delle Cascate e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+              "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+              "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+          },
+          {
+            "activity_id": 40,
+            "note": {
+              "descrizione": "Visita la Basilica dei Santi Pietro e Paolo e clicca sul tasto 'Sono arrivato'. Completando questa azione, riceverai i punti che ti serviranno per ricaricare ed evolvere la tua PromoPass Maximo.",
+              "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere la tua PromoPass Maximo",
+              "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+          }
     ],
     "termini_condizioni": {
         "titolo": "Termini e Condizioni di www.palmu.it",
