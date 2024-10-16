@@ -336,14 +336,6 @@
         {
             "activity_id": 4,
             "note": {
-                "descrizione": "Completa tutte le attività previste dalla Challenge per ricevere una Maximo Gift Card del valore indicato in euro.",
-                "link_text": "Clicca su ciascuna attività per conoscere i dettagli dell'azione da compiere. Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
-                "link": "link_a_pagina_dedicata"
-            }
-        },
-        {
-            "activity_id": 5,
-            "note": {
                 "descrizione": "Raggiungi il Maximo Shopping Center e clicca sul tasto 'Sono arrivato'. Completando questa azione, avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
                 "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
                 "link": "https://palmu.it/maximo-ti-premia-termini-e-condizioni/"
