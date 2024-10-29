@@ -344,7 +344,7 @@
         {
             "activity_id": 6,
             "note": {
-                "descrizione": "Fai un giro con la bicicletta da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
+                "descrizione": "Cammina da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
                 "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
@@ -352,7 +352,15 @@
         {
             "activity_id": 7,
             "note": {
-                "descrizione": "Visita uno dei luoghi disponibili e clicca sul tasto 'Sono arrivato'. VEDI LUOGHI (menu a tendina o link con i luoghi d'interesse che attribuiscono punti). Riceverai i punti indicati che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
+                "descrizione": "Cammina da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
+                "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+        },
+        {
+            "activity_id": 8, 
+            "note": {
+                "descrizione": "Corri da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
                 "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
@@ -360,7 +368,7 @@
         {
             "activity_id": 9, 
             "note": {
-                "descrizione": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
+                "descrizione": "Corri da solo o in compagnia dove preferisci per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
                 "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
@@ -387,6 +395,22 @@
                 "descrizione": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Avrai diritto a ricevere una Maximo Gift Card del valore indicato in euro.",
                 "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
                 "link": "link_a_pagina_dedicata"
+            }
+        },
+        {
+            "activity_id": 15,
+            "note": {
+                "descrizione": "Muoviti in mobilità elettrica per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
+                "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
+            }
+        },
+        {
+            "activity_id": 16,
+            "note": {
+                "descrizione": "Muoviti in mobilità elettrica per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
+                "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
+                "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
         },
         {
