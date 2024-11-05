@@ -324,7 +324,7 @@
         },
         {
             "activity_id": 3,
-            "image":"https://cocco12892.github.io/images/electric-ride.jpg",
+            "image":"https://cocco12892.github.io/images/bicicletta.webp",
             "note": {
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
                 "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
@@ -335,6 +335,14 @@
             "note": {
                 "link_text": "Scopri i termini e le modalità per riscuotere la tua Maximo Gift Card presso il nostro InfoPoint",
                 "link": "https://palmu.it/maximo-ti-premia-termini-e-condizioni/"
+            }
+        },
+        {
+            "activity_id": 5,
+            "image":"https://cocco12892.github.io/images/sostenibilità.jpeg",
+            "note": {
+                "link_text": "Leggi questo contenuto e clicca sul tasto 'Ho letto'. Avrai diritto a ricevere i punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo.",
+                "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
         },
         {
