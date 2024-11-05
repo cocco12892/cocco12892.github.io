@@ -361,6 +361,7 @@
         },
         {
             "activity_id": 8, 
+            "image":"https://cocco12892.github.io/images/run.jpg",
             "note": {
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
                 "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
@@ -368,6 +369,7 @@
         },
         {
             "activity_id": 9, 
+            "image":"https://cocco12892.github.io/images/run.jpg",
             "note": {
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
                 "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
@@ -399,16 +401,16 @@
         },
         {
             "activity_id": 15,
+            "image":"https://cocco12892.github.io/images/bicicletta.webp",
             "note": {
-                "descrizione": "Muoviti in mobilità elettrica per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
                 "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
         },
         {
             "activity_id": 16,
+            "image":"https://cocco12892.github.io/images/bicicletta.webp",
             "note": {
-                "descrizione": "Muoviti in mobilità elettrica per raggiungere l'obiettivo e guadagnare i punti sostenibilità del valore indicato. Riceverai i punti che ti serviranno per ricaricare ed evolvere il tuo PromoPass Maximo.",
                 "link_text": "Scopri i termini e le modalità per ottenere punti sostenibilità, ricaricare o evolvere il tuo PromoPass Maximo",
                 "link": "https://palmu.it/guadagna-responsabilmente-termini-e-condizioni/"
             }
